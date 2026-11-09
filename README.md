@@ -1,2 +1,2 @@
 # ampwow
-an amp wow addons
+an amp wow addon
